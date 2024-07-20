@@ -1,6 +1,0 @@
-1,Alexandria Opera,1000
-2,Egyptian Opera,1000
-3,Cairo Opera House,1000
-4,El Gomhoureya Theater,500
-5,Manasterly Palace,500
-6,Cairo Puppet Theater,350
