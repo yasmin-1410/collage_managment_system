@@ -1,2 +1,0 @@
-1,Alexandria Opera,2023-08-15,18:00,500
-3,Cairo Opera House,2023-08-15,18:00,500
