@@ -1,0 +1,4 @@
+1,yasmin,female,2004,12,UG
+2,Aya,female,2004,12,PG
+3,hassan,male,2004,16,PG
+4,mohamed,male,2004,24,UG

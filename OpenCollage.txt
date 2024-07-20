@@ -1,0 +1,3 @@
+1,Helwan University,123456,8,18
+2,Cairo University,4565789,9,17
+3,Ain Shams University,147852,10,20

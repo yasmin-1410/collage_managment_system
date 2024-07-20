@@ -1,0 +1,6 @@
+1,apple,yes
+2,banana,yes
+1,apple,yes
+2,banana,no
+1,apple,yes
+2,banana,no
