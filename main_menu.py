@@ -19,9 +19,9 @@ from Auditorium import Auditorium
 def main_menu():
     while True:
         print("""
-        #######################################
+        ########################################
         # Welcome to College Management System #
-        #######################################
+        ########################################
         Please Choose:
         1. College Management
         2. Department
@@ -64,9 +64,9 @@ def collage_management_menu():
     collage = CollageManagment()
     while True:
         print("""
-        ###############################
+        #################################
         # Welcome to College Management #
-        ############################### 
+        ################################# 
         Please Choose:
         1. Open -> Check if the college is open
         2. College Details
@@ -149,9 +149,9 @@ def student_menu():
 def ug_student_menu():
     while True:
         print("""
-        ###################################
+        ####################################
         # Welcome to College's UG Students #
-        ################################### 
+        #################################### 
         Please Choose:
         1. Student Details
         2. Pay Fees
@@ -198,9 +198,9 @@ def ug_student_menu():
 def pg_student_menu():
     while True:
         print("""
-        ###################################
+        ####################################
         # Welcome to College's PG Students #
-        ################################### 
+        #################################### 
         Please Choose:
         1. Student Details
         2. Pay Fees
@@ -272,9 +272,9 @@ def staff_menu():
 def teaching_staff_menu():
     while True:
         print("""
-        #################################
+        #######################################
         # Welcome to College's Teaching Staff #
-        ################################# 
+        ####################################### 
         Please Choose:
         1. Staff Details
         2. Exit
@@ -299,9 +299,9 @@ def teaching_staff_menu():
 def non_teaching_staff_menu():
     while True:
         print("""
-        #################################
+        ###########################################
         # Welcome to College's Non-Teaching Staff #
-        ################################# 
+        ###########################################
         Please Choose:
         1. Staff Details
         2. Exit
@@ -362,9 +362,9 @@ def classroom_menu():
 def library_menu():
     while True:
         print("""
-        ###############################
+        ################################
         # Welcome to College's Library #
-        ############################### 
+        ################################ 
         Please Choose:
         1. Library Details
         2. Exit
@@ -384,9 +384,9 @@ def library_menu():
 def bus_menu():
     while True:
         print("""
-        ##############################
+        ############################
         # Welcome to College's Bus #
-        ############################## 
+        ############################ 
         Please Choose:
         1. Bus Details
         2. Exit
@@ -406,9 +406,9 @@ def bus_menu():
 def hostel_menu():
     while True:
         print("""
-        ##############################
+        ###############################
         # Welcome to College's Hostel #
-        ############################## 
+        ###############################
         Please Choose:
         1. Boys Hostel
         2. Girls Hostel
@@ -431,9 +431,9 @@ def hostel_menu():
 def boys_hostel_menu():
     while True:
         print("""
-        ##############################
+        ##########################
         # Welcome to Boys Hostel #
-        ############################## 
+        ########################## 
         Please Choose:
         1. Hostel Details
         2. Exit
@@ -458,9 +458,9 @@ def boys_hostel_menu():
 def girls_hostel_menu():
     while True:
         print("""
-        ##############################
+        ###########################
         # Welcome to Girls Hostel #
-        ############################## 
+        ########################### 
         Please Choose:
         1. Hostel Details
         2. Exit
@@ -485,9 +485,9 @@ def girls_hostel_menu():
 def auditorium_menu():
     while True:
         print("""
-        ###############################
+        ###################################
         # Welcome to College's Auditorium #
-        ############################### 
+        ################################### 
         Please Choose:
         1. Auditorium Details
         2. Exit
